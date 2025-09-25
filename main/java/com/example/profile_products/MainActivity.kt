@@ -1,4 +1,4 @@
-package com.example.zadanie2004
+package com.example.profile_products
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
