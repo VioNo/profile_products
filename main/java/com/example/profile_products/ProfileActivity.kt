@@ -1,4 +1,4 @@
-package com.example.zadanie2004
+package com.example.profile_products
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -29,4 +29,5 @@ class ProfileActivity : AppCompatActivity() {
             finish()
         }
     }
+
 }
