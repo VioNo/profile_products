@@ -1,4 +1,4 @@
-package com.example.zadanie2004
+package com.example.profile_products
 
 import android.app.AlertDialog
 import android.content.SharedPreferences
@@ -164,4 +164,5 @@ class ShoppingListActivity : AppCompatActivity() {
 
         nextId = sharedPreferences.getInt("nextId", 1)
     }
+
 }
