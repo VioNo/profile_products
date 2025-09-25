@@ -1,7 +1,8 @@
-package com.example.zadanie2004
+package com.example.profile_products
 
 data class Product(
     val id: Int,
     val name: String,
     val quantity: Int
+
 )
