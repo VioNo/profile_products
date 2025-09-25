@@ -1,4 +1,4 @@
-package com.example.zadanie2004
+package com.example.profile_products
 
 import android.view.LayoutInflater
 import android.view.View
@@ -65,4 +65,5 @@ class ProductAdapter(
         products.addAll(newProducts)
         notifyDataSetChanged() // Уведомляем о полном обновлении списка
     }
+
 }
